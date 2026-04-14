@@ -1,13 +1,15 @@
-# 🛰️ Cephalon VoidTracker — Central Jurídica
-Bem-vindo à central de transparência do **Cephalon VoidTracker**. Abaixo você encontrará os documentos oficiais exigidos para a verificação do bot e conformidade com as diretrizes do Discord.
+# 🛰️ Cephalon VoidTracker — Legal Hub
+Bem-vindo à central de transparência. Selecione o seu idioma abaixo: / Welcome to the transparency hub. Select your language below:
 
 ---
 
-### 📜 [Termos de Serviço](TERMOS_SERVICO.md)
-Regras de uso, responsabilidades e funcionamento das assinaturas VIP.
+### 🇧🇷 Português (Brasil)
+*   📜 [Termos de Serviço](TERMOS_SERVICO.md)
+*   🛡️ [Política de Privacidade](PRIVACIDADE.md)
 
-### 🛡️ [Política de Privacidade](PRIVACIDADE.md)
-Transparência total sobre quais dados coletamos e como protegemos sua privacidade.
+### 🇺🇸 English
+*   📜 [Terms of Service](TERMS_EN.md)
+*   🛡️ [Privacy Policy](PRIVACY_EN.md)
 
 ---
-**Desenvolvido por:** [B. Softworks](https://discord.gg/voidtracker)
+**Powered by:** [B. Softworks](https://discord.gg/voidtracker)
